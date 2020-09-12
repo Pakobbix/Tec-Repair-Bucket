@@ -35,7 +35,7 @@ Geplant ist noch:
 
 Das einfügen einer Setup.exe mit Parametern (/auto upgrade /dynamicupdate disable) in die ISO. Damit auch das Automatisch abläuft.
 
-Changelog für Leute, die noch die alte Version kannten:
+# Changelog für Leute, die noch die alte Version kannten:
 
 1. Langsame InVoke-WebRequest durch StartBitsTransfer befehle getauscht, dadurch ca. 10fache Download Geschwindigkeit.
 
