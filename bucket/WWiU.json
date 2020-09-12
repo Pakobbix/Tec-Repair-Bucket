@@ -1,5 +1,5 @@
 {
-    "homepage": "https://github.com/Pakobbix/Tec-Repair-Bucket"
+    "homepage": "https://github.com/Pakobbix/Tec-Repair-Bucket",
 	"version": "0.7",
     "description": "Ein Skript für das Automatische erstellen einer Windows ISO mit allen Updates",
     "architecture": {
