@@ -1,6 +1,6 @@
 # Tec-Repair-Bucket
 
-WWiU Steht für Windows with integrated Updates.
+WWiU Steht für Windows with integrated Updates.<br>
 Dieses Skript ist aus neugierde und aus dem Mangel an Automatismus unserer Firma entstanden.
 Selbst unsere NAS-Server Lösung ist eher träge und erfordert zu oft einschreiten seitens der Techniker.
 Sofern der NAS nicht sowieso schon ausgeschaltet wurde, weil er das Intranet verlangsamt.
@@ -17,7 +17,9 @@ Außer natürlich bei Windows S Mode Geräte. Da geht WSUS sowieso nicht.
 
 Bei der Erstellten Windows ISO muss nichts weiter getan werden, als das Setup.exe ausgeführt werden. Das Setup führt automatisch das Funktions-Update aus,
 und installiert anschließend ohne fremde Einwirkung die Windows Kumulativen Updates.
-Im Moment funktioniert das Skript soweit schonmal. Geplant ist noch:
+Im Moment funktioniert das Skript soweit schonmal. 
+
+Geplant ist noch:
 
 Eine Auto-Update funktion, um den prozess weiter zu automatisieren
 
