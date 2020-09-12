@@ -1,7 +1,7 @@
 # Tec-Repair-Bucket
 
 ##########################################################################################################################################################################
-# 															WWiU Steht für Windows with integrated Updates. 															 #
+# 															<center>WWiU Steht für Windows with integrated Updates.</center> 															 #
 # 											Dieses Skript ist aus neugierde und aus dem Mangel an Automatismus unserer Firma entstanden.								 #
 # 										Selbst unsere NAS-Server Lösung ist eher träge und erfordert zu oft einschreiten seitens der Techniker.							 #									
 # 												Sofern der NAS nicht sowieso schon ausgeschaltet wurde, weil er das Intranet verlangsamt.								 #												
