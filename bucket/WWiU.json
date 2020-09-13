@@ -13,5 +13,13 @@
         }
     },
 	"extract_dir": "Files/WWiU",
-	"bin": "WWiU.exe"
+	"bin": "WWiU.exe",
+	
+	"shortcuts": [
+        [
+            "WWiU.exe",
+            "WWiU Skript"
+        ]
+    ]
+
 	}
