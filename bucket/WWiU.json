@@ -16,7 +16,7 @@
 	"bin": "WWiU.exe",
 	"shortcuts": [
         [
-            "WWiU.exe"
+            "WWiU.exe",
         ]
     ]
 	}
